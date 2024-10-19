@@ -5,7 +5,7 @@
   "keyboard": "preonic/rev3_drop",
   "keymap": "preonic_rev3_drop_testwboot",
   "layout": "LAYOUT_ortho_5x12",
-  "bootloader": "tinyuf2",
+  "properties": {"bootloader": "tinyuf2"},
   "layers": [
     [
       "KC_GRV",
