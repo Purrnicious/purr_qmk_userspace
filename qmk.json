@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["preonic/rev3_drop", "purrnicious"]
+        ["preonic_rev3_drop_testwboot"]
     ]
 }
