@@ -9,7 +9,6 @@
     "bootloader": "tinyuf2",
     "build": {
       "firmware_format": "uf2",
-      "bootmagic": "true",
     }
   },
   "layers": [
