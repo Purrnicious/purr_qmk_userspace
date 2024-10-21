@@ -7,9 +7,9 @@
   "layout": "LAYOUT_ortho_5x12",
   "config": {
     "bootloader": "tinyuf2",
-    "bootmagic": "true",
     "build": {
-      "firmware_format": "uf2"
+      "firmware_format": "uf2",
+      "bootmagic": "true",
     }
   },
   "layers": [
